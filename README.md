@@ -36,8 +36,10 @@ Tugas Pertemuan 2 Lab1Web
 > berikut output dari HTML di Atas
 ![outputtugas.PNG](image/outputtugas.PNG)
 
-# Penggunaan background dan Ukuran font h1,h2,h3,dst
-```<!DOCTYPE html>
+# Penggunaan background dan Ukuran font
+> Menggunakan Background merah dan ukuran font h1, h2, dan h3
+```
+<!DOCTYPE html>
 <html>
 <>
 <head>
@@ -49,7 +51,7 @@ Tugas Pertemuan 2 Lab1Web
 <h1>hai<h1/>
 <h2>hai<h2/>
 <h3>hai<h3/>
-```
 
 </body>
 </html>
+```
