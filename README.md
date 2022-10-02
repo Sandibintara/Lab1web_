@@ -35,3 +35,21 @@ Tugas Pertemuan 2 Lab1Web
 # Output
 > berikut output dari HTML di Atas
 ![outputtugas.PNG](image/outputtugas.PNG)
+
+# Penggunaan background dan Ukuran font h1,h2,h3,dst
+```<!DOCTYPE html>
+<html>
+<>
+<head>
+<title>Belajar HTML</title>
+</head>
+<body bgcolor = "red" >
+
+<h1>percobaan ukuran font<h1/>
+<h1>hai<h1/>
+<h2>hai<h2/>
+<h3>hai<h3/>
+```
+
+</body>
+</html>
