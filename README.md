@@ -151,6 +151,11 @@ syntax
 
 ![pic.PNG](image/pic.PNG)
 
+<h1> cukup sekian dan TERIMA KASIH</h1>
+<br>
+
+<h1>sandi bintara</h1>
+
 
 
 
