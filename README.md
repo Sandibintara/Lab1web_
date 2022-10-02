@@ -61,4 +61,39 @@ Tugas Pertemuan 2 Lab1Web
 
 ![bgfont.PNG](image/bgfont.PNG)
 
+# Menggunakan fungsi format text
+> Tag Keterangan
+```
+<b> Bold text
+<strong> Important text
+<i> Italic text
+<em> Emphasized text
+<mark> Marked text
+<small> Smaller text
+<del> Deleted text
+<ins> Inserted text
+<sub> Subscript text
+<sup> Superscript text
+```
 
+syntax
+```
+<!DOCTYPE html>
+<html>
+<>
+<head>
+<title>Belajar HTML</title>
+</head>
+<body bgcolor = "red" >
+
+<h1><b>percobaan</b> <i>ukuran</i> <sub>font</sub> <h1/>
+<h1><mark>ONE</mark> <em>PIECE</em> <h1/>
+<h2>FILM<h2/>
+<h1><small>RED</small> <h1/>
+<h4><ins>Coming soon</ins><h4/>
+
+</body>
+</html>
+```
+# Output
+![htmlformattext.PNG](image/htmlformattext.PNG)
