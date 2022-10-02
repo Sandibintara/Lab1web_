@@ -14,22 +14,21 @@ Tugas Pertemuan 2 Lab1Web
 <br>
 
 # HTML
-> <!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
 <title>Belajar HTML</title>
 </head>
 <body>
-
 <h1>Hai Nama saya sandi</h1>
 <br>
 <h1>NIM 312010039</h1>
 <br>
 <p>Dengan ini saya mengerjakan Tugas pertemuan 2 Pemrograman WEB</p>
 <h1>terimakasih<h1/>
-
 </body>
-</html>
+</html>```
+
 <hr>
 <br>
 
