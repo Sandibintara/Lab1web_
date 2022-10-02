@@ -115,9 +115,9 @@ syntax
 </html>
 ```
 <br>
+
 # Output Hyperlink
 
-<br>
 > Output Sebelum di klik
 
 ![hyperlink1.PNG](image/hyperlink1.PNG)
