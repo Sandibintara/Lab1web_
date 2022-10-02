@@ -130,5 +130,28 @@ syntax
 
 ![hyperlink3](image/hyperlink3.PNG)
 
+# Menampilkan Gambar
+
+<br>
+
+```
+<!doctype html>
+<html>
+<head>
+<title>Belajar HTML</title>
+</head>
+<body bgcolor = "red">
+<img src="hyperlink2.PNG"/>
+</body>
+</html>
+```
+
+# Output Picture
+> Menampilkan foto yang di pilih sesuai nama dan format
+
+![pic.PNG](image/pic.PNG)
+
+
+
 
 
