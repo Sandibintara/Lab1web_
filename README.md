@@ -101,6 +101,7 @@ syntax
 # Hyperlink
 > Menampilkan tautan yang terhubung dengan link yang di tuju
 <br>
+
 ```
 <!DOCTYPE html>
 <html>
@@ -113,11 +114,20 @@ syntax
 </body>
 </html>
 ```
+<br>
 # Output Hyperlink
+<br>
 > Output Sebelum di klik
+
 ![hyperlink1.PNG](image/hyperlink1.PNG)
+
 > Output Tujuan
+
 ![hyperlink2.PNG](image/hyperlink2.PNG)
+
 > Output Setelah di gunakan (menunjukan perbedaan warna sesudah tautan di klik)
+
 ![hyperlink3](image/hyperlink3.PNG)
+
+
 
