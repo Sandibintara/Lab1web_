@@ -14,8 +14,7 @@ Tugas Pertemuan 2 Lab1Web
 <br>
 
 # HTML
-```
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
 <title>Belajar HTML</title>
@@ -30,11 +29,9 @@ Tugas Pertemuan 2 Lab1Web
 </body>
 </html>
 ```
-
 <hr>
 <br>
 
 # Output
 > berikut output dari HTML di Atas
-
-![]
+![outputtugas.PNG](image/outputtugas.PNG)
