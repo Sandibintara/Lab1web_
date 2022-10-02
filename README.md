@@ -55,3 +55,9 @@ Tugas Pertemuan 2 Lab1Web
 </body>
 </html>
 ```
+# Output background dan font
+> Background merah dan font ukuran h1, h2, h3
+
+![bgfont.PNG](image/bgfont.PNG)
+
+
