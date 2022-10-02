@@ -48,9 +48,10 @@ Tugas Pertemuan 2 Lab1Web
 <body bgcolor = "red" >
 
 <h1>percobaan ukuran font<h1/>
-<h1>hai<h1/>
-<h2>hai<h2/>
-<h3>hai<h3/>
+<h1>ONE PIECE<h1/>
+<h2>FILM<h2/>
+<h1>RED<h1/>
+<h4>Coming soon<h4/>
 
 </body>
 </html>
