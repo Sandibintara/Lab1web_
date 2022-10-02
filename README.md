@@ -14,7 +14,8 @@ Tugas Pertemuan 2 Lab1Web
 <br>
 
 # HTML
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <title>Belajar HTML</title>
@@ -27,7 +28,8 @@ Tugas Pertemuan 2 Lab1Web
 <p>Dengan ini saya mengerjakan Tugas pertemuan 2 Pemrograman WEB</p>
 <h1>terimakasih<h1/>
 </body>
-</html>```
+</html>
+```
 
 <hr>
 <br>
